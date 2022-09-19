@@ -1,11 +1,16 @@
 import 'package:flutter/material.dart';
-void main() => runApp(MyApp());
-class MyApp extends StatelessWidget {
- @override
- Widget build(BuildContext context) {
- return Center(
- child: Text('Hello World Travel',
- textDirection: TextDirection.ltr,),
- );
- }
+import 'package:flutter_projects_book/ch01.dart';
+
+void main() => runApp(new TravelApp());
+
+class TravelApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        debugShowCheckedModeBanner: false,
+        title: "Hello World",
+        home: HelloWorldTravelApp());
+  }
+
+  
 }
