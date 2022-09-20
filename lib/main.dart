@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_projects_book/ch01/ch01.dart';
+import 'package:flutter_projects_book/ch01/HelloWorld.dart';
 
 void main() => runApp(new TravelApp());
 
