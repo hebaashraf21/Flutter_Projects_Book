@@ -1,16 +1,12 @@
-# flutter_projects_book
+# Flutter Projects Book
 
-A new Flutter project.
+<a href="https://www.packtpub.com/in/mobile/flutter-projects?utm_source=github&utm_medium=repository&utm_campaign=9781838647773"><img src="https://static.packt-cdn.com/products/9781838647773/cover/smaller" alt="Flutter Projects" height="256px" align="right"></a>
 
-## Getting Started
+This is my code repository for [Flutter Projects](https://www.packtpub.com/in/mobile/flutter-projects?utm_source=github&utm_medium=repository&utm_campaign=9781838647773), published by Packt.
 
-This project is a starting point for a Flutter application.
+**A practical, project-based guide to building real-world cross-platform mobile applications and games**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Note:
+- Section 1&2 are available.
+- you can also find here my answers to the questions. 
+https://docs.google.com/document/d/1c7CT7P_xT_bCBthYLOtASrIcWnmLlIg_/edit?usp=sharing&ouid=110465526778989286253&rtpof=true&sd=true
